@@ -71,9 +71,9 @@ This dashboard provides a complete overview of Netflix’s global content trends
 
 ## 👩‍💻 Author
 
-Gayatri Ruddarraju
+Gayatri Devi Ruddarraju
 
-📊 Data Analyst | Power BI | SQL | Python
+📊 Data Analyst | Power BI | SQL | Excle | Python
 
 📧 Email: gayatrideviruddarraju@gmail.com
 
