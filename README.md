@@ -69,6 +69,16 @@ This dashboard provides a complete overview of Netflix’s global content trends
 - Open in Power BI Desktop
 - Interact with slicers to explore insights by year, country, or rating
 
+## 👩‍💻 Author
 
+Gayatri Ruddarraju
+
+📊 Data Analyst | Power BI | SQL | Python
+
+📧 Email: gayatrideviruddarraju@gmail.com
+
+🔗 LinkedIn: http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
+
+📂 GitHub: https://github.com/GayatriRuddarraju
 
 
